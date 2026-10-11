@@ -1,0 +1,15 @@
+{
+  "development_authoring": "Codex assisted; early candidate responses and authored weak fixture are development examples",
+  "actual_runtime": "Four independent ChatGPT browser conversations",
+  "actual_run_ids": [
+    "01_primary_v0",
+    "02_primary_v0_3",
+    "03_contrast_1_v0_3",
+    "04_contrast_2_v0_3"
+  ],
+  "model": "ChatGPT UI label; Medium thinking strength; exact model identifier not exposed",
+  "source_process": "Codex checked source passages separately; ChatGPT trials used supplied summaries without browsing",
+  "git_ownership": "Student account pingan1224; AI-assisted commits",
+  "student_endorsement": "Not established",
+  "bank_operational_claims": "None; hypothetical cases and proposed evaluations only"
+}

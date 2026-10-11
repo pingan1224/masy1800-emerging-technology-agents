@@ -1,0 +1,62 @@
+{
+  "agent": {
+    "name": "Emerging Technology Disruption Agent",
+    "specialty": "Creative destruction and business-model disruption",
+    "version": "0.2-draft-20261011"
+  },
+  "analytical_question": "How much creative destruction could tool-using AI cause in the specified complaints business model, on what horizon, and what bounded management action is justified?",
+  "general_et_finding": "Tool-using AI can support information gathering, analysis and drafting. The same capability may sustain an incumbent service or undermine a labor-priced delivery model; novelty and task automation alone do not establish business-model disruption. Source evidence is held constant across these scenarios. General potential is distinct from verified case quality, economic impact and authorization.",
+  "evidence": [
+    {
+      "claim": "Use the sustaining/disruptive distinction, incumbent dilemma, and severity-by-time-horizon matrix to connect exposure with management action.",
+      "source_or_reference": "S1 | Chapter 1 Creative Destruction | Chapter_1_Creative_Destruction_WITH_FIGURES_v01__WITH_FIGURES (2).pdf, sections 1.6-1.8, Figure 1.8, PDF pages 10-12",
+      "date_or_recency": "Undated pre-publication course manuscript; accessed 2026-10-11",
+      "evidence_type": "Course conceptual framework",
+      "notes": "A conceptual lens, not evidence of this bank's economics. Historical and current examples elsewhere in the manuscript were not relied on as verified market facts."
+    },
+    {
+      "claim": "NatWest describes testing an agentic complaints investigation system that combines multiple data sources and presents summaries for employee approval, with human oversight and performance checks.",
+      "source_or_reference": "S2 | Collaborating with the Financial Conduct Authority on testing agentic AI | https://www.natwestgroup.com/news-and-insights/latest-stories/ai-and-data/2026/may/collaborating-with-the-financial-conduct-authority-on-testing-ag.html",
+      "date_or_recency": "2026; URL filed under May; accessed 2026-10-11",
+      "evidence_type": "Bank self-reported testing evidence",
+      "notes": "UK example, bank self-report, and testing-stage evidence. It establishes a relevant use case, not independently verified ROI, autonomous resolution, or US compliance."
+    },
+    {
+      "claim": "The report identifies weaknesses in recognizing and resolving disputes and in giving customers meaningful access to human help.",
+      "source_or_reference": "S3 | Chatbots in consumer finance | https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/",
+      "date_or_recency": "2023-06-06; accessed 2026-10-11",
+      "evidence_type": "Historical regulator research",
+      "notes": "Older chatbot evidence, not a performance evaluation of current tool-using agents. Used to motivate failure tests, not to infer current adoption rates or detailed legal requirements."
+    },
+    {
+      "claim": "Distinguishes predefined workflows from model-directed tool use and emphasizes a tradeoff between capability, cost, and accumulating errors.",
+      "source_or_reference": "S4 | Building effective agents | https://www.anthropic.com/engineering/building-effective-agents",
+      "date_or_recency": "Originally published 2024-12-19; page notes subsequent tooling changes; accessed 2026-10-11",
+      "evidence_type": "Primary technical guidance",
+      "notes": "Vendor guidance, not comparative evidence of banking outcomes. Current products or specific model recommendations are not used."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "All organizations and operating assumptions in these cases are hypothetical.",
+    "Source S2 is a bank-reported UK test, not proof of this US-bank scenario, ROI or autonomous resolution.",
+    "Historical chatbot failures in S3 suggest test conditions but do not measure current agent performance.",
+    "Cost, volume, error rates, implementation readiness and contract outcomes have not been measured.",
+    "These are Codex-authored development analyses, not separately executed ChatGPT trials or independent empirical evaluations."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in the qualitative exposure mechanism; low confidence in magnitude and timing. Matrix placement is conditional on case assumptions. Numerical savings, job losses and production readiness are unestablished.",
+  "risk_governance_implication": "Keep an accountable complaints manager and employee approval. Trace information to approved, versioned sources; preserve meaningful human escalation and access/audit controls. This analysis does not authorize refunds, complaint denials, fraud conclusions, external messages or production deployment.",
+  "application_finding": "HYPOTHETICAL BASELINE: The outsourcing provider sells complaint-handling capacity to bank clients through contracts and earns most revenue from human handling hours. Skilled handlers, operating routines, client access agreements and quality evidence support its offer; bank clients and their customers depend on it. CREATE: agent-assisted investigation, specialized escalation, audit-ready quality assurance and potential managed-service offers. DESTROY OR REDUCE: billable routine handling hours and labor-scale advantage if buyers need less manual work or insource assistance. This revenue erosion is conditional on the stated billing premise, verified substitution and buyer behavior.",
+  "organization_specific_finding": "Business-Model Disruption Potency: High, conditional on labor-hour pricing. The exposed unit is the provider's revenue/delivery model. Matrix: High severity / mid-term material contract exposure (12-36 months is a case assumption, not a measured forecast); default action Prepare and pilot. AI-assisted alternatives could substitute for hours sold, but low-end entry/upmarket movement is not established, so classic Christensen disruption is unproven. INCUMBENT DILEMMA: offering more efficient services can cannibalize current billed hours. Acting early risks development expense and repricing before buyers accept a new offer; waiting risks client insourcing or contract repricing.",
+  "value_opportunity_implication": "Potential new value lies in difficult-case expertise, demonstrable resolution quality, audit services and controlled managed workflows. Outcome-oriented pricing is a candidate business design, not proven demand or guaranteed margin.",
+  "recommendation_management_implication": "Have commercial and operations leadership prepare a contract/pricing exposure review now and pilot a controlled agent-assisted managed service with a willing bank client. Preserve employee accountability and client access restrictions. Compare total client outcomes and provider economics before changing contracts; examine whether efficiency destroys revenue faster than it reduces cost. Test a proposed alternative pricing model without asserting that outcome fees are suitable for every complaint. Do not commit to full repricing or staffing cuts without contract and unit-economics evidence.",
+  "change_monitoring_triggers": [
+    "If a material bank client requires agent-enabled services at its next renewal or shows a credible plan to insource, move High/mid toward High/near and accelerate commercial action.",
+    "If validated quality and net-cost gains support a new managed-service offer, revisit pricing assumptions.",
+    "If a large share of revenue is actually fixed-price or advisory rather than handling-hour based, downgrade the assumed exposure."
+  ],
+  "abstention_or_more_information_needed": [
+    "Verify contract renewal dates, pricing mix, client adoption plans, margins and access agreements.",
+    "Measure actual time substitution and outcome quality before predicting revenue loss.",
+    "Do not label Potentially Existential without evidence that exposed revenue cannot be replaced and threatens viability."
+  ]
+}

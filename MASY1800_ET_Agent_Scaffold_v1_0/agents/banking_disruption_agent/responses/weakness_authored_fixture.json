@@ -1,0 +1,58 @@
+{
+  "agent": {
+    "name": "Emerging Technology Disruption Agent",
+    "specialty": "Creative destruction and business-model disruption",
+    "version": "0.1-development-fixture"
+  },
+  "analytical_question": "How much creative destruction could tool-using AI cause in the specified complaints business model, on what horizon, and what bounded management action is justified?",
+  "general_et_finding": "Tool-using AI can support information gathering, analysis and drafting. The same capability may sustain an incumbent service or undermine a labor-priced delivery model; novelty and task automation alone do not establish business-model disruption. Source evidence is held constant across these scenarios. General potential is distinct from verified case quality, economic impact and authorization.",
+  "evidence": [
+    {
+      "claim": "Use the sustaining/disruptive distinction, incumbent dilemma, and severity-by-time-horizon matrix to connect exposure with management action.",
+      "source_or_reference": "S1 | Chapter 1 Creative Destruction | Chapter_1_Creative_Destruction_WITH_FIGURES_v01__WITH_FIGURES (2).pdf, sections 1.6-1.8, Figure 1.8, PDF pages 10-12",
+      "date_or_recency": "Undated pre-publication course manuscript; accessed 2026-10-11",
+      "evidence_type": "Course conceptual framework",
+      "notes": "A conceptual lens, not evidence of this bank's economics. Historical and current examples elsewhere in the manuscript were not relied on as verified market facts."
+    },
+    {
+      "claim": "NatWest describes testing an agentic complaints investigation system that combines multiple data sources and presents summaries for employee approval, with human oversight and performance checks.",
+      "source_or_reference": "S2 | Collaborating with the Financial Conduct Authority on testing agentic AI | https://www.natwestgroup.com/news-and-insights/latest-stories/ai-and-data/2026/may/collaborating-with-the-financial-conduct-authority-on-testing-ag.html",
+      "date_or_recency": "2026; URL filed under May; accessed 2026-10-11",
+      "evidence_type": "Bank self-reported testing evidence",
+      "notes": "UK example, bank self-report, and testing-stage evidence. It establishes a relevant use case, not independently verified ROI, autonomous resolution, or US compliance."
+    },
+    {
+      "claim": "The report identifies weaknesses in recognizing and resolving disputes and in giving customers meaningful access to human help.",
+      "source_or_reference": "S3 | Chatbots in consumer finance | https://www.consumerfinance.gov/data-research/research-reports/chatbots-in-consumer-finance/chatbots-in-consumer-finance/",
+      "date_or_recency": "2023-06-06; accessed 2026-10-11",
+      "evidence_type": "Historical regulator research",
+      "notes": "Older chatbot evidence, not a performance evaluation of current tool-using agents. Used to motivate failure tests, not to infer current adoption rates or detailed legal requirements."
+    },
+    {
+      "claim": "Distinguishes predefined workflows from model-directed tool use and emphasizes a tradeoff between capability, cost, and accumulating errors.",
+      "source_or_reference": "S4 | Building effective agents | https://www.anthropic.com/engineering/building-effective-agents",
+      "date_or_recency": "Originally published 2024-12-19; page notes subsequent tooling changes; accessed 2026-10-11",
+      "evidence_type": "Primary technical guidance",
+      "notes": "Vendor guidance, not comparative evidence of banking outcomes. Current products or specific model recommendations are not used."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "This is an intentionally weak author-created fixture, not an independently observed ChatGPT response. Its unsupported statements are preserved for diagnosis and must not be used as factual findings."
+  ],
+  "confidence_and_uncertainty": "High confidence.",
+  "risk_governance_implication": "Keep an accountable complaints manager and employee approval. Trace information to approved, versioned sources; preserve meaningful human escalation and access/audit controls. This analysis does not authorize refunds, complaint denials, fraud conclusions, external messages or production deployment.",
+  "application_finding": "AI will automate complaint processing and improve efficiency.",
+  "organization_specific_finding": "Potentially Existential: banks that do not automate complaints will lose their business. High severity, near-term; act now.",
+  "value_opportunity_implication": "A credible opportunity is to redirect complaint staff toward complex investigation and service recovery while improving evidence organization. Any retention, cost or satisfaction benefit must be measured; a fluent response is not a resolved dispute.",
+  "recommendation_management_implication": "Replace most manual complaint handling immediately because AI is faster.",
+  "change_monitoring_triggers": [
+    "If a comparable competitor or supplier demonstrates independently checked sustained improvements in total resolution cost and quality, revisit urgency; faster draft generation alone is insufficient.",
+    "If the pilot achieves its pre-agreed quality and net-cost criteria across relevant case types, consider extending scope and revise impact estimates.",
+    "If audit, privacy or escalation failures occur, suspend affected use and reassess controls."
+  ],
+  "abstention_or_more_information_needed": [
+    "Obtain baseline resolution, review/rework cost, complaint outcomes and case mix before ROI or staffing forecasts.",
+    "Verify local access, policy lineage, audit ownership and jurisdiction-specific obligations before live use.",
+    "Obtain evidence of competitive/customer switching before treating the application as a bank-wide existential threat."
+  ]
+}

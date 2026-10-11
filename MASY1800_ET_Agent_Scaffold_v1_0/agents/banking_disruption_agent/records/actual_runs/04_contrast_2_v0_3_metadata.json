@@ -1,0 +1,14 @@
+{
+  "run_id": "04_contrast_2_v0_3",
+  "conversation_url": "https://chatgpt.com/c/6acbf5a5-3390-83e9-86e1-6d95d975727c",
+  "captured_at_utc": "2026-10-11T20:49:49.938Z",
+  "prompt_file": "work/banking_disruption_agent_contrast_2_prompt.txt",
+  "model_ui": "ChatGPT",
+  "underlying_model_identifier": "not exposed in UI",
+  "thinking_strength_ui": "Medium",
+  "submitted_instruction": "Execute the complete attached pasted specialist prompt for this one readiness-constrained bank case. This is an actual independent context-contrast trial. Return JSON only according to the frozen schema. Use the supplied source register, state its limitations and do not browse.",
+  "submission_method": "Complete prompt pasted as text attachment plus execution wrapper; fresh independent conversation",
+  "browsing": "Not requested; supplied source summaries only",
+  "completion_observed": "回答已完成",
+  "raw_response_preserved": true
+}

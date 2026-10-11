@@ -1,0 +1,14 @@
+{
+  "run_id": "02_primary_v0_3",
+  "conversation_url": "https://chatgpt.com/c/6acbf4b3-6178-83e9-b356-bbed8be09626",
+  "captured_at_utc": "2026-10-11T20:46:42.157Z",
+  "prompt_file": "work/banking_disruption_agent_primary_prompt.txt",
+  "model_ui": "ChatGPT",
+  "underlying_model_identifier": "not exposed in UI",
+  "thinking_strength_ui": "Medium",
+  "submission_method": "Complete prompt pasted as text attachment plus execution wrapper; fresh independent conversation",
+  "browsing": "Not requested; supplied source summaries only",
+  "completion_observed": "回答已完成",
+  "raw_response_preserved": true,
+  "submitted_instruction": "Execute the complete attached pasted specialist prompt for this one case. This is an actual independent revised-primary trial. Return JSON only according to the frozen schema. Use the supplied source register, state its limitations and do not browse."
+}

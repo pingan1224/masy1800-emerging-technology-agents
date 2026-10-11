@@ -1,0 +1,47 @@
+{
+  "scope": "Four captured ChatGPT responses, not synthetic fixtures",
+  "runs": [
+    {
+      "run_id": "01_primary_v0",
+      "conversation_url": "https://chatgpt.com/c/6acbf3db-45dc-83e8-a63d-716efbf9fdcf",
+      "raw_response": "agents/banking_disruption_agent/records/actual_runs/01_primary_v0_raw.json",
+      "sha256": "38058c4b2ef953d1a0cc63c78570dc5323bdde82b2f75af543af6178d785cc90",
+      "course_validator": "VALIDATION PASSED",
+      "all_present_schema_constraints": "PASS; recursive types, required fields, properties, items and additionalProperties; not a general Draft202012 library",
+      "response_value_word_count": 2957,
+      "captured_at_utc": "2026-10-11T20:41:10.696Z"
+    },
+    {
+      "run_id": "02_primary_v0_3",
+      "conversation_url": "https://chatgpt.com/c/6acbf4b3-6178-83e9-b356-bbed8be09626",
+      "raw_response": "agents/banking_disruption_agent/records/actual_runs/02_primary_v0_3_raw.json",
+      "sha256": "1ec0dabd1f172ce5f1c81d691b891cc6a2bdcfaf008ae6abe2170e7437382272",
+      "course_validator": "VALIDATION PASSED",
+      "all_present_schema_constraints": "PASS; recursive types, required fields, properties, items and additionalProperties; not a general Draft202012 library",
+      "response_value_word_count": 2692,
+      "captured_at_utc": "2026-10-11T20:46:42.157Z"
+    },
+    {
+      "run_id": "03_contrast_1_v0_3",
+      "conversation_url": "https://chatgpt.com/c/6acbf504-996c-83ea-a304-e3810986aebf",
+      "raw_response": "agents/banking_disruption_agent/records/actual_runs/03_contrast_1_v0_3_raw.json",
+      "sha256": "26b7e25d46512145d0b956895f1f663ebf6a41887248f262d9e465aa8c31ddc2",
+      "course_validator": "VALIDATION PASSED",
+      "all_present_schema_constraints": "PASS; recursive types, required fields, properties, items and additionalProperties; not a general Draft202012 library",
+      "response_value_word_count": 2544,
+      "captured_at_utc": "2026-10-11T20:46:42.482Z"
+    },
+    {
+      "run_id": "04_contrast_2_v0_3",
+      "conversation_url": "https://chatgpt.com/c/6acbf5a5-3390-83e9-86e1-6d95d975727c",
+      "raw_response": "agents/banking_disruption_agent/records/actual_runs/04_contrast_2_v0_3_raw.json",
+      "sha256": "fb26e71c88a263bc4f3db2cd2fb8ff6b8e6718d0ce2b7c4e26cc59a66c701f3d",
+      "course_validator": "VALIDATION PASSED",
+      "all_present_schema_constraints": "PASS; recursive types, required fields, properties, items and additionalProperties; not a general Draft202012 library",
+      "response_value_word_count": 2073,
+      "captured_at_utc": "2026-10-11T20:49:49.938Z"
+    }
+  ],
+  "frozen_core": "FROZEN CORE INTACT",
+  "interpretation": "Structure and file-integrity checks do not establish analytical accuracy, banking safety, reliability or business value."
+}
