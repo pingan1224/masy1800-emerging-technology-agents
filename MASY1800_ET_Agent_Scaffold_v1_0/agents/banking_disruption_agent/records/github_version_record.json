@@ -12,5 +12,6 @@
   "date": "2026-10-11",
   "remote_status": "Branch push succeeded; final remote verification is separately recorded in delivery verification.",
   "attribution": "User-owned private repository; Codex-assisted authoring, browser trials and commits. This history does not prove unassisted personal implementation.",
-  "scope": "Coursework hypothetical-case specialist only; no bank production deployment or Brightspace submission."
+  "scope": "Coursework hypothetical-case specialist only; no bank production deployment or Brightspace submission.",
+  "privacy_cleanup": "User-authorized assignment branch history rewrite removed four UI screenshots; main unchanged; raw answers unchanged. Server cache purge unconfirmed. GitHub Support submission cancelled by user."
 }

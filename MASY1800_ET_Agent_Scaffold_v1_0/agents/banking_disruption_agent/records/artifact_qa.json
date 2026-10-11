@@ -1,12 +1,13 @@
 {
   "document": "Wang_Lester_Assignment2_Banking_Disruption_TESTED.docx",
-  "docx_sha256": "1e0cfd45d25625fa61d01a66617f491347f3c23ac18a082ff4f8ca6857418f48",
+  "docx_sha256": "675b6f994d0f9a856dc837b4b95df169fec1adaeaf60e8276958d602d25cfdc8",
   "page_count": 7,
-  "review": "All seven rendered pages inspected; after final text corrections pages 1 and 5 re-inspected, other five images byte-identical to inspected render",
+  "review": "All seven rendered pages visually inspected after privacy edits and commit-reference updates.",
   "layout": "No clipping, overlapping text, broken tables, blank spill pages or missing glyphs observed",
   "judgment_words": 167,
   "reflection_words": 92,
   "actual_response_count": 4,
   "student_review": "Independent judgment and reflection require review and endorsement",
-  "timestamp_utc": "2026-10-11T20:55:41.016894+00:00"
+  "timestamp_utc": "2026-10-11T21:16:45.151658+00:00",
+  "privacy": "UI screenshots removed; four raw responses retain their original SHA-256 hashes."
 }
