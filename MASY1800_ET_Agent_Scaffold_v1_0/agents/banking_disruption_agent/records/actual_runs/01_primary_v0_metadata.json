@@ -1,0 +1,13 @@
+{
+  "run_id": "01_primary_v0",
+  "captured_at_utc": "2026-10-11T20:41:10.696Z",
+  "timezone": "America/New_York",
+  "conversation_url": "https://chatgpt.com/c/6acbf3db-45dc-83e8-a63d-716efbf9fdcf",
+  "ui_model_label": "ChatGPT",
+  "ui_thinking_strength": "Medium",
+  "underlying_model_identifier": "Not exposed by the visible UI",
+  "input_file": "work/banking_disruption_agent_primary_v0_prompt.txt",
+  "submitted_instruction": "Run the complete specialist prompt in the attached pasted text as an actual baseline trial. Follow its common output schema and return the analysis as JSON only. Use only the supplied source evidence; state missing verification rather than browsing.",
+  "status": "Completed; UI showed 回答已完成",
+  "browsing": "Excluded by trial instruction; sources supplied in prompt"
+}
