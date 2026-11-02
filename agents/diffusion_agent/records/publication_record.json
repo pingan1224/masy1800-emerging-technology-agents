@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/pingan1224/masy1800-emerging-technology-agents",
+  "branch": "assignment5-diffusion",
+  "tested_specialist_commit": "b5810dba01707e3d897211b68f70b723bc96698d",
+  "original_packaging_commit": "cae9975ad03f14976ea3753b55bc4016c6c472aa",
+  "final_submission_ref": "refs/heads/assignment5-diffusion",
+  "student_endorsement": {
+    "student": "Lester Wang",
+    "date": "2026-11-02",
+    "scope": "Independent professional judgment and Craft represent the student own judgment; AI assistance remains disclosed."
+  },
+  "brightspace_submitted": false,
+  "test_scope": "Existing in-session case applications and 15 local structural/regression checks; no new independent model run claimed."
+}

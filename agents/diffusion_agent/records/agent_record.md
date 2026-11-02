@@ -6,11 +6,11 @@ Lester Wang
 
 Assignment 5 / Diffusion Agent v0.2.0
 
-November 1, 2026
+November 2, 2026
 
-Existing course repository: pingan1224/masy1800-emerging-technology-agents. This candidate is local only; not pushed.
+https://github.com/pingan1224/masy1800-emerging-technology-agents (published branch: assignment5-diffusion).
 
-assignment5-diffusion (local)
+assignment5-diffusion
 
 b5810dba01707e3d897211b68f70b723bc96698d (tested specialist snapshot)
 
@@ -68,4 +68,4 @@ Suitable as a bounded discussion candidate: evidence, uncertainty and contextual
 
 Carry forward peer-diffusion uncertainty and human authority. Seek comparable deployment evidence before asserting competitive lag or recommending rollout.
 
-Codex drafted the specialist, saved analyses and documents. Original sources, dates and populations were checked; contract and integrity tools ran locally. Personal judgment and Craft require student review.
+Codex drafted the specialist, saved analyses and documents. Original sources, dates and populations were checked; contract and integrity tools ran locally. Lester Wang confirmed the judgment and Craft on November 2, 2026.

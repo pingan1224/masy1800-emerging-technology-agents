@@ -14,4 +14,4 @@
 | Half-page judgment | Submission/Wang_5_Professional_Judgment.docx |
 | AI note and under-100-word Craft | Submission/Wang_5_AI_Verification_and_Craft.docx |
 | Frozen integrity and reproducible prompts | FROZEN_CORE_SHA256.txt; work/diffusion_agent_*_prompt.txt |
-| GitHub version history | Local branch and commit preserved; remote publication remains pending, explicitly disclosed in VERSION_RECORD.json |
+| GitHub version history | Published GitHub branch assignment5-diffusion; tested specialist commit b5810dba01707e3d897211b68f70b723bc96698d retained in history. Final submission commit and verification are recorded in the package VERSION_RECORD.json |
