@@ -1,0 +1,67 @@
+{
+  "agent": {
+    "name": "Emerging Technology Diffusion Agent",
+    "specialty": "Rogers diffusion and bounded timing interpretation",
+    "version": "0.2.0"
+  },
+  "analytical_question": "How far has generative AI diffused generally and in this application and peer context, what affects its spread, and what timing implication follows for this organization without making the full adoption decision?",
+  "general_et_finding": "For US generative-AI use, diffusion is beyond innovator-only experimentation and shows broader participation compatible with early-majority involvement, but an exact Rogers stage for enterprise deployment is not established. S1 reports 45% of workers using generative AI for work by May 2026; its task analysis indicates broad reach but shallow task penetration. This is a worker-use measure, not the share of firms deploying this application. S2 concerns all AI and uses a different denominator and wording, so it is contextual evidence only. Innovators and early adopters plausibly remain active alongside later participants; early-majority involvement is an inference, while late-majority and laggard shares are unknown. Without longitudinal adoption timing for a defined common social system, no category percentages or universal majority-crossing claim are justified. The observation date is not November 2026.",
+  "evidence": [
+    {
+      "claim": "The authors report adult generative-AI use rising from 45% to 62%, and worker use for jobs from 33% to 45%. Their task analysis finds broad reach with much shallower use of individual tasks.",
+      "source_or_reference": "S1 Bick, Blandin, Deming and Schumacher. What Work Does Generative AI Do. https://www.stlouisfed.org/on-the-economy/2026/sep/what-work-does-generative-ai-do",
+      "date_or_recency": "Published 2026-09-01; observations August 2024 to May 2026; task indexes August 2025 to May 2026; checked 2026-11-01.",
+      "evidence_type": "Original survey authors report",
+      "notes": "US adults ages 18-64 and workers; not firms or support departments. Self-reported use is not sustained enterprise deployment, authorized use, or support-peer penetration. May observations are not November rates."
+    },
+    {
+      "claim": "BTOS reports AI use around 17-20% of US businesses during this period and 39.7% in Information on May 3. The question broadened in November 2025 to any business function.",
+      "source_or_reference": "S2 Grundy, Breaux and Khatiwoda, US Census Bureau. Large Firms With at Least 20 Employees Biggest AI Users. https://www.census.gov/library/stories/2026/05/ai-use-businesses.html",
+      "date_or_recency": "Published 2026-05-26; observations 2025-12-14 to 2026-05-03; checked 2026-11-01.",
+      "evidence_type": "Government original survey summary",
+      "notes": "US businesses; all AI, past two weeks. Not generative AI specifically; Information is broader than B2B software support. Do not combine with worker surveys or compare across the wording break as an unchanged series."
+    },
+    {
+      "claim": "A study of 5,172 support agents at one business-process software firm finds 15% more issues resolved per hour on average, with heterogeneous effects. Human agents could edit or ignore suggestions.",
+      "source_or_reference": "S3 Brynjolfsson, Li and Raymond. Generative AI at Work. https://doi.org/10.1093/qje/qjae044",
+      "date_or_recency": "Published 2025-02-04; QJE May 2025, 140(2), 889-942; observations Historical staggered deployment studied in the published paper; checked 2026-11-01.",
+      "evidence_type": "Original peer-reviewed deployment study",
+      "notes": "Agents at one firm; productivity outcome, not a market diffusion rate. Supports an application-level relative-advantage mechanism and an actual deployment. Does not estimate the percentage of peer firms adopting, local ROI, or autonomous-system performance."
+    },
+    {
+      "claim": "Voluntary cross-sector guidance identifies confabulation, privacy, human-AI configuration and component-integration risks, with suggested governance and evaluation actions.",
+      "source_or_reference": "S4 Autio et al., NIST. Artificial Intelligence Risk Management Framework Generative Artificial Intelligence Profile. https://doi.org/10.6028/NIST.AI.600-1",
+      "date_or_recency": "Published 2024-07-26; observations July 2024 guidance; reference page checked 2026-11-01; checked 2026-11-01.",
+      "evidence_type": "Voluntary government risk guidance",
+      "notes": "Risk guidance; not adoption statistics or law. Using the profile is a proposed governance aid, not evidence of compliance, certification, current market diffusion or local control effectiveness."
+    },
+    {
+      "claim": "Use innovator, early adopter, early majority, late majority and laggard as relative adoption-timing categories; assess relative advantage, compatibility, complexity, trialability and observability.",
+      "source_or_reference": "F1 Everett M. Rogers. Diffusion of Innovations fifth edition. ISBN 9780743222099",
+      "date_or_recency": "Published 2003; observations Theory reference, not a current adoption observation; checked 2026-11-01.",
+      "evidence_type": "Theory reference with disclosed instructional cross-check",
+      "notes": "Adoption units in a defined social system over time. This package does not claim fresh access to the full book. Five-factor terminology was cross-checked against University of Florida IFAS WC089 search text; its full page had a redirect-loop error. No curve is fitted and no theoretical category percentage is treated as a measured market share."
+    }
+  ],
+  "contrary_evidence_or_limitations": [
+    "S1 measures worker use; S2 measures all-AI use by businesses. They are not conflicting estimates of the same quantity and cannot be pooled.",
+    "S3 is one historical firm and a supervised workflow. It does not establish current application penetration, universal productivity gains or local ROI.",
+    "All organizations, capabilities and postures are hypothetical case assumptions. Proposed roles and diffusion mechanisms have not been observed locally.",
+    "The packet uses dated sources checked November 1, 2026; later observations may exist. No complete Rogers adoption-time distribution or comparable-peer panel is available."
+  ],
+  "confidence_and_uncertainty": "Moderate confidence in broadening but uneven general use. Low confidence in an exact enterprise Rogers stage and application-level peer penetration. Five-factor local implications are reasoned hypotheses, not measured outcomes.",
+  "value_opportunity_implication": "Potential value comes from reusable drafting assistance and knowledge access, conditional on net quality and time benefits after review. Neither diffusion prevalence nor S3 guarantees local value.",
+  "risk_governance_implication": "Treat confabulation, privacy, over-reliance and component integration as evaluation needs (S4). Local authority, appropriate data handling and effective review must be established by accountable staff. This specialist neither certifies compliance nor authorizes adoption.",
+  "change_monitoring_triggers": [
+    "Evidence owner: support operations lead or bank model-risk lead as appropriate. At the six-week review, seek newer same-definition generative-AI observations with the same unit and geography; reassess if the evidence changes.",
+    "Research owner: obtain dated, independently checkable deployment and sustained-use evidence for comparable firms and the same application; disclose sample selection and denominator before claiming majority diffusion or peer rank.",
+    "Workflow owner: review correctness, major-edit rate, net handling time including review, usage persistence and serious incidents against a documented baseline. A serious privacy or harmful-answer event triggers immediate exposure review; thresholds require accountable owner approval, not this diffusion agent."
+  ],
+  "abstention_or_more_information_needed": [
+    "Abstain on the claim that most comparable mid-sized US B2B software support teams have deployed human-reviewed generative-AI drafting: no representative application-specific denominator was supplied. Obtain a recent, defined-peer survey or deployment panel distinguishing trials from sustained use.",
+    "Abstain on exact Rogers category shares, a universally crossed chasm, local ROI and the full adoption decision. Need longitudinal adoption timing and organizational evaluation evidence."
+  ],
+  "application_finding": "Human-reviewed support drafting has demonstrated organizational deployment, but diffusion among comparable mid-sized US B2B software support teams is unknown. S3 establishes one relevant deployed application, not a peer denominator. Relative advantage: S3 provides a 15% average issues-resolved-per-hour gain in one firm, with heterogeneous effects; local benefit remains unmeasured. Compatibility: assisting an existing human support workflow appears plausible given approved runbooks (scenario inference), unlike substituting automated customer decisions. Complexity: integration, retrieval quality, privacy and reviewer effort can inhibit spread; chat usability does not establish operational simplicity (S4 plus inference). Trialability: replaying de-identified tickets and limiting a draft-only trial can make learning reversible; this is a proposed design, not a tested local control. Observability: resolution quality, major-edit rates and net handling time including review can make outcomes visible; polished replies and vendor demos are insufficient. These five characteristics guide a qualitative judgment, not a numerical penetration score.",
+  "organization_specific_finding": "Only adoption posture changes from the primary case. The same company now behaves conservatively, seeking local evidence before customer exposure. Its underlying application diffusion and five-factor evidence remain unchanged. Conservatism raises the evidence threshold and delays exposure; it does not make generative AI less diffused. Relative advantage remains conditional; compatibility still benefits from approved runbooks; complexity still includes retrieval, privacy and reviewer effort. Trialability should first be exercised in an offline replay, and observability through a staff-reviewed error and handling-time audit. A trusted senior support agent could be the opinion leader, with training and peer discussion as change-agent channels; these are proposed mechanisms. Knowledge quality, identity controls and logs are complementary assets. S3 remains the strongest evidenced accelerator; unverified workflow reliability remains the key local inhibitor. No claim that the company belongs to the late majority or lags peers can be made from posture alone.",
+  "recommendation_management_implication": "Use the same six-week window for offline de-identified replay, senior-agent review and peer-reference checks before considering any customer-facing trial. The support operations owner should bring the local reliability and review-burden evidence to the week-six review. Lower uncertainty is required before exposure because posture is conservative. Do not change the general or application diffusion stage; management and the Adoption Agent retain the decision."
+}

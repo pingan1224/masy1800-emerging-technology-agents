@@ -1,0 +1,82 @@
+{
+  "automated_checks": 15,
+  "passed": 15,
+  "checks": [
+    {
+      "check": "primary common input contract",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "primary full common output contract",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast_1 common input contract",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast_1 full common output contract",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast_2 common input contract",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "contrast_2 full common output contract",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "preserved v0.1 failure is detected",
+      "passed": true,
+      "detail": "$: forbidden extra field rogers_assessment"
+    },
+    {
+      "check": "posture contrast isolates intended context change",
+      "passed": true,
+      "detail": "['adoption_posture', 'management_question']"
+    },
+    {
+      "check": "technology held constant in all contexts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "dated source packet held constant",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "general diffusion finding invariant across contexts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "application finding invariant under posture-only change",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "timing implications vary across contexts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "new application changes application finding",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all seven frozen core hashes unchanged",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "scope": "Contract and selected regression properties only. Not independent semantic or model performance evaluation."
+}
